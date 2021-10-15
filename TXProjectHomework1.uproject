@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{47AA84C1-4ECD-8FF6-FD7B-15A6D432C0A6}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "TXProjectHomework1",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
